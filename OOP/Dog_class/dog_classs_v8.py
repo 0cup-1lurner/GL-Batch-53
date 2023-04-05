@@ -10,7 +10,6 @@ class Dog:
             name: str
             age: int
 
-
             Creates an instance of the Dog class
 """
         self.name = name
